@@ -84,7 +84,7 @@ header {
     text-shadow: black 3px 3px 0px, black -1px 1px 0px, black 1px -1px 0px, black -1px -1px 0px;
     color: #fff;
     /*background: #18bc9c;*/
-    background-image: url("/startbootstrap-freelancer-1.0.3/img/monokuro2.jpg");
+    background-image: url("../img/monokuro2.jpg");
     background-position: center center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -192,7 +192,7 @@ section.success {
     text-shadow: black 1px 1px 0px, black -1px 1px 0px, black 1px -1px 0px, black -1px -1px 0px;
     color: #fff;
     /*background: #18bc9c;*/
-    background-image: url("/startbootstrap-freelancer-1.0.3/img/monokuro3.jpg");
+    background-image: url("../img/monokuro3.jpg");
     background-position: center center;
     background-size: cover;
     background-repeat: no-repeat;
